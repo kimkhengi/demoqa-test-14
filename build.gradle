@@ -1,1 +1,3 @@
-test
+plugins{
+    id 'java-library'
+}
