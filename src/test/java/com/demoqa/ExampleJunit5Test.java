@@ -19,7 +19,7 @@ public class ExampleJunit5Test {
 
     @Test
     void secondTest(){
-        Assertions.assertTrue(1==1);
+        Assertions.assertTrue(true);
         System.out.println("Test2 Passed!");
     }
 
